@@ -8,7 +8,7 @@ Entry Spreadsheet: https://docs.google.com/spreadsheets/d/15rIDZ-VYblrNosTPk_YLZ
 
 ANAME Viewing Spreadsheet: https://docs.google.com/spreadsheets/d/1GOxSXCkW-tvHIiwxKZF898UrTz1sz0wZ1xJ3yzGPo4g/edit?usp=sharing
 
-** How to Use Demo **
+**How to Use Demo**
 
 ![Screenshot of the application](https://github.com/warnerjoe/employee-error-reporter/raw/main/images/eer1.png)
 
