@@ -10,17 +10,20 @@ ANAME Viewing Spreadsheet: https://docs.google.com/spreadsheets/d/1GOxSXCkW-tvHI
 
 **How to Use Demo**
 
-![Screenshot of the application](https://github.com/warnerjoe/employee-error-reporter/raw/main/images/eer1.png)
 
 In order to use this how it functions, you will need to click File and Make a Copy of both spreadsheets.  
 
 All of the Javascript function will be in a "Script" menu at the top of the Google Sheet, next to "File, Edit, ..., Help". 
 
+![Screenshot of the application](https://github.com/warnerjoe/employee-error-reporter/raw/main/images/eer1.png)
+
 The most simple use case is to click Script and "Copy Rows" and it will distribute the error reports to the appropriate people.  You can view them in the tabs at the bottom.  Once you've distributed your new entries, click Script and then delete the row's contents!
+
 ![Screenshot of the application](https://github.com/warnerjoe/employee-error-reporter/raw/main/images/eer2.png)
 ![Screenshot of the application](https://github.com/warnerjoe/employee-error-reporter/raw/main/images/eer3.png)
 
 On the ANAME Viewing Spreadsheet's copy, you will need to click in Cell A1 and Allow Permissions.  You will only be able to see ANAME's content.
+
 ![Screenshot of the application](https://github.com/warnerjoe/employee-error-reporter/raw/main/images/eer4.png)
 
 There are a few things it is impossible to recreate in a live demo, mainly disabling certain parts of the Spreadsheets to certain users.  If I did this, you would not be able to see everything.  
