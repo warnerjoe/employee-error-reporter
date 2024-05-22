@@ -1,5 +1,5 @@
 # Employee-Error-Reporter
-This is some Javascript that is connected to a set of view-only Google Sheets which allow the various employees of an organization to see their portion of an error reporting log but nobody else's.
+This is some Javascript that is connected to a set of view-only Google Sheets which allows the various employees of an organization to see their portion of an error reporting log but nobody else's.
 
 **Link to project:** 
 I created a sample version of the project, but all of the data in it is sample data.
