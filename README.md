@@ -45,8 +45,10 @@ With a Javascript base, I developed this project using Google's documentation an
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Project 1:** COMING SOON
+**WrestleGPT:** [https://github.com/warnerjoe/WrestleGPT](https://github.com/warnerjoe/WrestleGPT)
 
-**Project 2:** COMING SOON
+**Employee Error Reporter:** [https://github.com/warnerjoe/employee-error-reporter](https://github.com/warnerjoe/employee-error-reporter)
 
-**Project 3:** COMING SOON
+**Node Portfolio:** [https://github.com/warnerjoe/nodeportfolio](https://github.com/warnerjoe/nodeportfolio)
+
+**RDDB:** [https://github.com/warnerjoe/rddb-2/](https://github.com/warnerjoe/rddb-2)
