@@ -47,7 +47,7 @@ Take a look at these couple examples that I have in my own portfolio:
 
 **WrestleGPT:** [https://github.com/warnerjoe/WrestleGPT](https://github.com/warnerjoe/WrestleGPT)
 
-**Employee Error Reporter:** [https://github.com/warnerjoe/employee-error-reporter](https://github.com/warnerjoe/employee-error-reporter)
+**Goal App:** [https://github.com/warnerjoe/gpg](https://github.com/warnerjoe/gpg)
 
 **Node Portfolio:** [https://github.com/warnerjoe/nodeportfolio](https://github.com/warnerjoe/nodeportfolio)
 
